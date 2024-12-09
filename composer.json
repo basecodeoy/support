@@ -34,7 +34,7 @@
         "spatie/laravel-model-info": "^2.0.3"
     },
     "require-dev": {
-        "basecodeoy/standards": "^1.1.0"
+        "basecodeoy/standards": "^1.1.1"
     },
     "autoload": {
         "psr-4": {
